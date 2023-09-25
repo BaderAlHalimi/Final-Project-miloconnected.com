@@ -1,0 +1,5 @@
+/.env
+/.env.example
+/.well-known
+/cgi-bin
+/vendor

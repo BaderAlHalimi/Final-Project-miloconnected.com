@@ -1,0 +1,35 @@
+[21-Sep-2023 19:41:22 UTC] PHP Warning:  require(/home/cv9ibslodt0j/miloconnected.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cv9ibslodt0j/miloconnected.com/public/index.php on line 34
+[21-Sep-2023 19:41:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cv9ibslodt0j/miloconnected.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cv9ibslodt0j/miloconnected.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cv9ibslodt0j/miloconnected.com/public/index.php on line 34
+[21-Sep-2023 19:41:23 UTC] PHP Warning:  require(/home/cv9ibslodt0j/miloconnected.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cv9ibslodt0j/miloconnected.com/public/index.php on line 34
+[21-Sep-2023 19:41:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cv9ibslodt0j/miloconnected.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cv9ibslodt0j/miloconnected.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cv9ibslodt0j/miloconnected.com/public/index.php on line 34
+[21-Sep-2023 19:43:39 UTC] PHP Warning:  require(/home/cv9ibslodt0j/miloconnected.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cv9ibslodt0j/miloconnected.com/public/index.php on line 34
+[21-Sep-2023 19:43:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cv9ibslodt0j/miloconnected.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cv9ibslodt0j/miloconnected.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cv9ibslodt0j/miloconnected.com/public/index.php on line 34
+[23-Sep-2023 21:16:56 UTC] PHP Warning:  require(/home/cv9ibslodt0j/miloconnected.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cv9ibslodt0j/miloconnected.com/public/index.php on line 34
+[23-Sep-2023 21:16:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cv9ibslodt0j/miloconnected.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cv9ibslodt0j/miloconnected.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cv9ibslodt0j/miloconnected.com/public/index.php on line 34
+[23-Sep-2023 21:18:41 UTC] PHP Warning:  require(/home/cv9ibslodt0j/miloconnected.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cv9ibslodt0j/miloconnected.com/public/index.php on line 34
+[23-Sep-2023 21:18:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cv9ibslodt0j/miloconnected.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cv9ibslodt0j/miloconnected.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cv9ibslodt0j/miloconnected.com/public/index.php on line 34
+[23-Sep-2023 21:18:42 UTC] PHP Warning:  require(/home/cv9ibslodt0j/miloconnected.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cv9ibslodt0j/miloconnected.com/public/index.php on line 34
+[23-Sep-2023 21:18:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cv9ibslodt0j/miloconnected.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cv9ibslodt0j/miloconnected.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cv9ibslodt0j/miloconnected.com/public/index.php on line 34
+[23-Sep-2023 21:20:08 UTC] PHP Warning:  require(/home/cv9ibslodt0j/miloconnected.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cv9ibslodt0j/miloconnected.com/public/index.php on line 34
+[23-Sep-2023 21:20:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cv9ibslodt0j/miloconnected.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cv9ibslodt0j/miloconnected.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cv9ibslodt0j/miloconnected.com/public/index.php on line 34
